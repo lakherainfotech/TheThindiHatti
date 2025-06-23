@@ -1,0 +1,27 @@
+nav{
+    background-color: black;
+    padding: 10px;
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+    padding: 10px;
+}
+ol{
+    list-style: none;
+     display: flex;
+}
+
+
+a:hover{
+    color: black;
+    background-color: white;
+}
+
+
+
+
+

@@ -1,0 +1,15 @@
+.info-card{
+    text-align: center;
+    padding: 15px;
+ 
+
+}
+
+.info-card-heading{
+    color: rgba(106,56,1,255);;
+}
+
+.info-card-information{
+    font-size: large;
+    font-weight: 400;
+}
