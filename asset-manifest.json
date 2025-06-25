@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TheThindiHatti/static/css/main.fdbdf67e.css",
-    "main.js": "/TheThindiHatti/static/js/main.5974be9f.js",
+    "main.js": "/TheThindiHatti/static/js/main.ca81a07d.js",
     "static/js/453.6b980ea9.chunk.js": "/TheThindiHatti/static/js/453.6b980ea9.chunk.js",
     "static/media/mainimage.jpg": "/TheThindiHatti/static/media/mainimage.8368f6c5a2ea6966f5d4.jpg",
     "static/media/delicious-indian-cuisine-display.jpg": "/TheThindiHatti/static/media/delicious-indian-cuisine-display.830024fe8814b3ec01b2.jpg",
@@ -10,11 +10,11 @@
     "static/media/kabab.jpg": "/TheThindiHatti/static/media/kabab.457ccc8fa43ff21b69ec.jpg",
     "index.html": "/TheThindiHatti/index.html",
     "main.fdbdf67e.css.map": "/TheThindiHatti/static/css/main.fdbdf67e.css.map",
-    "main.5974be9f.js.map": "/TheThindiHatti/static/js/main.5974be9f.js.map",
+    "main.ca81a07d.js.map": "/TheThindiHatti/static/js/main.ca81a07d.js.map",
     "453.6b980ea9.chunk.js.map": "/TheThindiHatti/static/js/453.6b980ea9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fdbdf67e.css",
-    "static/js/main.5974be9f.js"
+    "static/js/main.ca81a07d.js"
   ]
 }
